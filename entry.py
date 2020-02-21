@@ -5,6 +5,7 @@ from purescripto.ffi_utilities import auto_link_repo
 _repo_link_map = {
     'prelude': r"https://github.com/purescript-python/purescript-prelude.py",
     'effect': r"https://github.com/purescript-python/purescript-effect.py",
+    'console': r"https://github.com/purescript-python/purescript-console.py"
 }
 
 def solve(package_name: str, versions: List[int]):
