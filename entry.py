@@ -7,7 +7,8 @@ _repo_url_link_map = {
     'control': r"https://github.com/purescript-python/purescript-control.py",
     'enums': r"https://github.com/purescript-python/purescript-enums.py",
     "foldable-traversable": r"https://github.com/purescript-python/purescript-foldable-traversable.py",
-    "partial": r"https://github.com/purescript-python/purescript-partial.py"
+    "partial": r"https://github.com/purescript-python/purescript-partial.py",
+    "show-python": r"https://github.com/purescript-python/purescript-show-python"
 }
 
 
