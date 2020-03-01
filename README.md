@@ -17,4 +17,4 @@ and return
 
 - a URL of a Git repo providing the Python FFI files.
 
-  e.g., for [purescript-console](https://github.com/purescript/purescript-console), we can make this [purescript-console.py](`https://github.com/purescript-python/purescript-console.py`) for former's Python FFI files).
+  e.g., for [purescript-console](https://github.com/purescript/purescript-console), we can make this [purescript-console.py](https://github.com/purescript-python/purescript-console.py) for former's Python FFI files).
