@@ -8,7 +8,9 @@ _repo_url_link_map = {
     'enums': r"https://github.com/purescript-python/purescript-enums.py",
     "foldable-traversable": r"https://github.com/purescript-python/purescript-foldable-traversable.py",
     "partial": r"https://github.com/purescript-python/purescript-partial.py",
-    "show-python": r"https://github.com/purescript-python/purescript-show-python"
+    "show-python": r"https://github.com/purescript-python/purescript-show-python",
+    "functions": r"https://github.com/purescript-python/purescript-functions.py",
+    "nullable": r"https://github.com/purescript-python/purescript-nullable.py"
 }
 
 
