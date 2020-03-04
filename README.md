@@ -23,3 +23,4 @@ and return
 ## Update Mirror
 
 `pspy --update` will automatically synchronize the mirror you selected in `pure-py.json`.
+  e.g., for [purescript-console](https://github.com/purescript/purescript-console), we can make this [purescript-console.py](https://github.com/purescript-python/purescript-console.py) for former's Python FFI files).
