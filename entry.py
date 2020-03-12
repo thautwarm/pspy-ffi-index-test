@@ -10,7 +10,7 @@ _repo_url_link_map = {
     "partial": r"https://github.com/purescript-python/purescript-partial.py",
     "show-python": r"https://github.com/purescript-python/purescript-show-python",
     "functions": r"https://github.com/purescript-python/purescript-functions.py",
-    "nullable": r"https://github.com/purescript-python/purescript-nullable.py"
+    "nullable": r"https://github.com/purescript-python/purescript-nullable.py",
     "refs": r"https://github.com/purescript-python/purescript-refs.py"
 }
 
