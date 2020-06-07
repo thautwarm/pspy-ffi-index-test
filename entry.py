@@ -16,6 +16,7 @@ _repo_url_link_map = {
     "st": r"https://github.com/purescript-python/purescript-st.py",
     "unsafe-coerce": r"https://github.com/purescript-python/purescript-unsafe-coerce.py",
     "unfoldable": r"https://github.com/purescript-python/purescript-unfoldable.py",
+    "arrays": r"https://github.com/purescript-python/purescript-arrays.py"
 }
 
 
