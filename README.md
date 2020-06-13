@@ -24,3 +24,21 @@ and return
 
 `pspy --update` will automatically synchronize the mirror you selected in `pure-py.json`.
   e.g., for [purescript-console](https://github.com/purescript/purescript-console), we can make this [purescript-console.py](https://github.com/purescript-python/purescript-console.py) for former's Python FFI files).
+
+
+## Test Mirror(for PureScript-Python developers)
+
+Fork this repo, and `git clone <your-own-mirror-repo> ~/.pspy/mirrors/test`,
+and change `index-mirror` of your `ps-pure.py` to `test`:
+
+```json
+{
+  "corefn-dir": /* your setting */,
+  "data-format": /* your setting */,
+  
+  "entry-module": /* your setting */,
+  "index-mirror": "test",
+  "pspy-blueprint": /* your setting */
+}
+```
+
