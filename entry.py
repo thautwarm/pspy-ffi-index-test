@@ -24,7 +24,7 @@ _repo_url_link_map = {
     "lazy": r"https://github.com/purescript-python/purescript-lazy.py",
     "strings": r"https://github.com/purescript-python//purescript-strings.py",
     "random": r"https://github.com/purescript-python/purescript-random.py",
-    "quickcheck": r"/home/xiang/projects/pspy-ffi/purescript-quickcheck.py",
+    "quickcheck": r"https://github.com/purescript-python/purescript-quickcheck.py",
     "record": r"https://github.com/purescript-python/purescript-record.py",
 }
 
