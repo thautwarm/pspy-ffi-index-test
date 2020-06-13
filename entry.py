@@ -16,7 +16,16 @@ _repo_url_link_map = {
     "st": r"https://github.com/purescript-python/purescript-st.py",
     "unsafe-coerce": r"https://github.com/purescript-python/purescript-unsafe-coerce.py",
     "unfoldable": r"https://github.com/purescript-python/purescript-unfoldable.py",
-    "arrays": r"https://github.com/purescript-python/purescript-arrays.py"
+    "arrays": r"https://github.com/purescript-python/purescript-arrays.py",
+    "exceptions": r"https://github.com/purescript-python/purescript-exceptions.py",
+    "globals": r"https://github.com/purescript-python/purescript-globals.py",
+    "integers": r"https://github.com/purescript-python/purescript-integers.py",
+    "math": r"https://github.com/purescript-python/purescript-math.py",
+    "lazy": r"https://github.com/purescript-python/purescript-lazy.py",
+    "strings": r"https://github.com/purescript-python//purescript-strings.py",
+    "random": r"https://github.com/purescript-python/purescript-random.py",
+    "quickcheck": r"/home/xiang/projects/pspy-ffi/purescript-quickcheck.py",
+    "record": r"https://github.com/purescript-python/purescript-record.py",
 }
 
 
